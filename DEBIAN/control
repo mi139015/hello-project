@@ -1,0 +1,5 @@
+Package: Helloworld
+Maintainer: Masayuki Imai <Masayuki.Imai.D@gmai.com>
+Architecture: amd64
+Version: 1.1
+Description: This is first Ubuntu package test.
